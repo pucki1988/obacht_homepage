@@ -1,0 +1,11 @@
+.card{
+    border: 0;
+    box-shadow: 0 .25rem 1rem rgba(48, 55, 66, .15);
+}
+
+    .vertical-center {
+        margin: 0;
+        top: 0;
+        -ms-transform: translateY(15%);
+        transform: translateY(15%);
+      }
